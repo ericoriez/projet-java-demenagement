@@ -1,7 +1,7 @@
 public class Demenagement {
     public static void main(String[] args) {
         // Affiche un message de bienvenue dans la console
-        System.out.println("Welcome to Demo");
+        System.out.println("Welcome to Demo Déménagement");
 
         // Déclare la variable totalCartons qui contient le nombre total de cartons à transporter
         int totalCartons = 34;
@@ -35,5 +35,7 @@ public class Demenagement {
             // Réduit le nombre de cartons restants après chaque voyage
             totalCartons -= cartonsTransportes;
         }
+
     }
+
 }
